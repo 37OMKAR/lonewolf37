@@ -1,16 +1,16 @@
 
-> 💡 🎬 查看我们的 Seedance 2.0 提示词库 — 𝕏 热门视频提示词，每日更新 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 🎬 查看我们的 Seedance 2.0 提示词库 — 𝕏 热门视频提示词，每日更新 👉 [awesome-seedance-2-prompts](https://github.com/37OMKAR/awesome-seedance-2-prompts)
 # 🚀 Nano Banana Pro 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/37OMKAR/lonewolf37?style=social)](https://github.com/37OMKAR/lonewolf37)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/37OMKAR/lonewolf37/actions/workflows/update-readme.yml/badge.svg)](https://github.com/37OMKAR/lonewolf37/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google Nano Banana Pro 创意提示词精选集合
 
-> ⚠️ **版权声明**：所有提示词均收集自社区，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml)，我们将立即移除。
+> ⚠️ **版权声明**：所有提示词均收集自社区，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/37OMKAR/lonewolf37/issues/new?template=bug-report.yml)，我们将立即移除。
 
 ---
 
@@ -7695,7 +7695,7 @@ The gallery features:
 
 ### 🐛 GitHub Issue
 
-1. Click [**提交新提示词**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**提交新提示词**](https://github.com/37OMKAR/lonewolf37/issues/new?template=submit-prompt.yml)
 2. 填写表单，包含提示词详情和图片
 3. 提交并等待团队审核
 4. 如果通过审核（我们会添加 `approved` 标签），它将自动同步到 CMS
@@ -7722,15 +7722,15 @@ The gallery features:
 
 ## ⭐ Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=37OMKAR/lonewolf37&type=Date)](https://star-history.com/#37OMKAR/lonewolf37&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 在网页图库中查看](https://youmind.com/zh-CN/nano-banana-pro-prompts)** •
-**[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[📝 提交提示词](https://github.com/37OMKAR/lonewolf37/issues/new?template=submit-prompt.yml)** •
+**[⭐ 给仓库点星](https://github.com/37OMKAR/lonewolf37)**
 
 <sub>🤖 此 README 自动生成。最后更新： 2026-03-08T05:04:38.179Z</sub>
 

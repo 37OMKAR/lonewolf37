@@ -1,16 +1,16 @@
 
-> 💡 🎬 Seedance 2.0 プロンプトコレクションをチェック — 𝕏から毎日更新されるバイラル動画プロンプト 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 🎬 Seedance 2.0 プロンプトコレクションをチェック — 𝕏から毎日更新されるバイラル動画プロンプト 👉 [awesome-seedance-2-prompts](https://github.com/37OMKAR/awesome-seedance-2-prompts)
 # 🚀 Nano Banana Pro プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/37OMKAR/lonewolf37?style=social)](https://github.com/37OMKAR/lonewolf37)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/37OMKAR/lonewolf37/actions/workflows/update-readme.yml/badge.svg)](https://github.com/37OMKAR/lonewolf37/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google Nano Banana Pro のクリエイティブなプロンプトコレクション
 
-> ⚠️ **著作権に関する通知**: すべてのプロンプトは教育目的でコミュニティから収集されています。権利を侵害していると思われるコンテンツがある場合は、[issue を作成](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml)してください。速やかに削除いたします。
+> ⚠️ **著作権に関する通知**: すべてのプロンプトは教育目的でコミュニティから収集されています。権利を侵害していると思われるコンテンツがある場合は、[issue を作成](https://github.com/37OMKAR/lonewolf37/issues/new?template=bug-report.yml)してください。速やかに削除いたします。
 
 ---
 
@@ -7737,7 +7737,7 @@ The gallery features:
 
 ### 🐛 GitHub Issue
 
-1. Click [**新しいプロンプトを提出**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**新しいプロンプトを提出**](https://github.com/37OMKAR/lonewolf37/issues/new?template=submit-prompt.yml)
 2. フォームにプロンプトの詳細と画像を記入
 3. 提出してチームのレビューを待つ
 4. 承認された場合（`approved` ラベルを追加します）、CMS に自動的に同期されます
@@ -7764,15 +7764,15 @@ The gallery features:
 
 ## ⭐ スター履歴
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=37OMKAR/lonewolf37&type=Date)](https://star-history.com/#37OMKAR/lonewolf37&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 Web ギャラリーで見る](https://youmind.com/ja-JP/nano-banana-pro-prompts)** •
-**[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[📝 プロンプトを提出](https://github.com/37OMKAR/lonewolf37/issues/new?template=submit-prompt.yml)** •
+**[⭐ このリポジトリにスターを付ける](https://github.com/37OMKAR/lonewolf37)**
 
 <sub>🤖 この README は自動生成されています。最終更新： 2026-03-08T05:04:45.845Z</sub>
 

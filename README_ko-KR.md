@@ -1,16 +1,16 @@
 
-> 💡 🎬 Seedance 2.0 프롬프트 컬렉션을 확인하세요 — 𝕏에서 매일 업데이트되는 바이럴 비디오 프롬프트 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 🎬 Seedance 2.0 프롬프트 컬렉션을 확인하세요 — 𝕏에서 매일 업데이트되는 바이럴 비디오 프롬프트 👉 [awesome-seedance-2-prompts](https://github.com/37OMKAR/awesome-seedance-2-prompts)
 # 🚀 Nano Banana Pro 프롬프트 모음
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/37OMKAR/lonewolf37?style=social)](https://github.com/37OMKAR/lonewolf37)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/37OMKAR/lonewolf37/actions/workflows/update-readme.yml/badge.svg)](https://github.com/37OMKAR/lonewolf37/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google Nano Banana Pro를 위한 창의적인 프롬프트 컬렉션
 
-> ⚠️ **저작권 고지**: 모든 프롬프트는 교육 목적으로 커뮤니티에서 수집되었습니다. 귀하의 권리를 침해하는 콘텐츠가 있다고 생각되면 [이슈를 열어주세요](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml). 즉시 삭제하겠습니다.
+> ⚠️ **저작권 고지**: 모든 프롬프트는 교육 목적으로 커뮤니티에서 수집되었습니다. 귀하의 권리를 침해하는 콘텐츠가 있다고 생각되면 [이슈를 열어주세요](https://github.com/37OMKAR/lonewolf37/issues/new?template=bug-report.yml). 즉시 삭제하겠습니다.
 
 ---
 
@@ -7710,7 +7710,7 @@ The gallery features:
 
 ### 🐛 GitHub Issue
 
-1. Click [**새 프롬프트 제출**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**새 프롬프트 제출**](https://github.com/37OMKAR/lonewolf37/issues/new?template=submit-prompt.yml)
 2. 프롬프트 세부 정보와 이미지로 양식 작성
 3. 제출하고 팀 검토 대기
 4. 승인되면 (`approved` 레이블 추가) CMS에 자동으로 동기화됩니다
@@ -7737,15 +7737,15 @@ The gallery features:
 
 ## ⭐ 스타 히스토리
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=37OMKAR/lonewolf37&type=Date)](https://star-history.com/#37OMKAR/lonewolf37&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 웹 갤러리에서 보기](https://youmind.com/ko-KR/nano-banana-pro-prompts)** •
-**[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[📝 프롬프트 제출](https://github.com/37OMKAR/lonewolf37/issues/new?template=submit-prompt.yml)** •
+**[⭐ 이 저장소에 스타 추가](https://github.com/37OMKAR/lonewolf37)**
 
 <sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-03-08T05:04:49.357Z</sub>
 

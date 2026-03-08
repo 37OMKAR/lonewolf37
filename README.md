@@ -1,16 +1,16 @@
 
-> 💡 🎬 Check out our Seedance 2.0 Prompts Collection — viral video prompts from 𝕏, updated daily 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+> 💡 🎬 Check out our Seedance 2.0 Prompts Collection — viral video prompts from 𝕏, updated daily 👉 [awesome-seedance-2-prompts](https://github.com/37OMKAR/awesome-seedance-2-prompts)
 # 🚀 Awesome Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/37OMKAR/lonewolf37?style=social)](https://github.com/37OMKAR/lonewolf37)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions)
+[![Update README](https://github.com/37OMKAR/lonewolf37/actions/workflows/update-readme.yml/badge.svg)](https://github.com/37OMKAR/lonewolf37/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 A curated collection of creative prompts for Google's Nano Banana Pro
 
-> ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) and we will remove it promptly.
+> ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/37OMKAR/lonewolf37/issues/new?template=bug-report.yml) and we will remove it promptly.
 
 ---
 
@@ -7704,7 +7704,7 @@ We welcome contributions! You can submit prompts via:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+1. Click [**Submit New Prompt**](https://github.com/37OMKAR/lonewolf37/issues/new?template=submit-prompt.yml)
 2. Fill in the form with prompt details and image
 3. Submit and wait for team review
 4. If approved (we'll add `approved` label), it will automatically sync to CMS
@@ -7731,15 +7731,15 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-nano-banana-pro-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=37OMKAR/lonewolf37&type=Date)](https://star-history.com/#37OMKAR/lonewolf37&Date)
 
 ---
 
 <div align="center">
 
 **[🌐 View in Web Gallery](https://youmind.com/en-US/nano-banana-pro-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[📝 Submit a Prompt](https://github.com/37OMKAR/lonewolf37/issues/new?template=submit-prompt.yml)** •
+**[⭐ Star this repo](https://github.com/37OMKAR/lonewolf37)**
 
 <sub>🤖 This README is automatically generated. Last updated: 2026-03-08T05:04:33.705Z</sub>
 
